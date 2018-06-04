@@ -1,0 +1,37 @@
+1. Engine/Entwicklungsumgebung
+2. Einrichtung des Projekts
+3. Interface und Benutzeroberfläche
+4. Umsetzung der Features
+5. Website
+Engine/Entwicklungsumgebung:
+
+Eclipse:
+Wir benutzen Eclipse zur Erstellung der Features und des Interfaces unter Einbindung der Bibliothek "libGdx". Wir wählen Java, weil wir damit die größte Erfahrung haben und somit die Planung der Umsetzung leichter fällt. 
+
+LibGdx:
+libGdx bietet eine Menge an Funktionen zur Interfacegestaltung und der Übersetzung auf Android-Systeme. Ursprünglich dient die Umgebung zur Spieleentwicklung, aber wir halten es für sehr geeignet das Projekt zu realisieren. Wir haben bereits mit libGdx gearbeitet und kennen uns deshalb einigermaßen gut mit deren Funktionen aus. 
+
+Datenbanken/MySQL:
+Für die Verarbeitung der Menge an Daten benutzen wir MySQL. Damit bilden wir eine Schnittstelle zwischen Java und SQL Tabellen.
+
+Html/Css:
+Wird für manche Onlinefunktionen und die Website benötigt.
+
+
+Einrichtung des Projekts:
+Mit dem libGdx Starter muss ein Projekt erstellt werden. Dabei wird das Häkchen auf Android gesetzt, wodurch wir direkt die Konvertierung auf Android in unser Eclipse eingebaut bekommen.
+In der Hauptdatei befinden sich nun Create- und Renderfunktionen. Hier bauen wir unser Interface zusammen.
+
+
+Interface und Benutzeroberfläche
+
+Anmeldungsvorgang
+
+Freundesliste
+
+Verknüpfung mit Googlemaps
+
+Persönlichkeitsbogen
+
+
+Umsetzung der Features:
